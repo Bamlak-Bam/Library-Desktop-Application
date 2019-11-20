@@ -1,2 +1,2 @@
 # Library-Desktop-Application
-Small library desktop application using JavaFX. 
+Small library desktop application using Java. 
